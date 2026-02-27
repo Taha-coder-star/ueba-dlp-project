@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+
+# Data files
+data/*.csv
+data/*.parquet
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
